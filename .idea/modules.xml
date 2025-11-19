@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/inventory-problem/inventory-problem.iml" filepath="$PROJECT_DIR$/inventory-problem/inventory-problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inventory-problem2/inventory-problem2.iml" filepath="$PROJECT_DIR$/inventory-problem2/inventory-problem2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inventory-problem3/inventory-problem3.iml" filepath="$PROJECT_DIR$/inventory-problem3/inventory-problem3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inventory-problem4/inventory-problem4.iml" filepath="$PROJECT_DIR$/inventory-problem4/inventory-problem4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-udemy.iml" filepath="$PROJECT_DIR$/.idea/java-udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/static-members/static-members.iml" filepath="$PROJECT_DIR$/static-members/static-members.iml" />
+      <module fileurl="file://$PROJECT_DIR$/triangle-problem/triangle-problem.iml" filepath="$PROJECT_DIR$/triangle-problem/triangle-problem.iml" />
+    </modules>
+  </component>
+</project>
